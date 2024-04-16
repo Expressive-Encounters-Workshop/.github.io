@@ -7,7 +7,8 @@ safe: false
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-
+include:
+ - _papers
 
 # Site Settings
 title: "Expressive Encounters Workshop"
@@ -86,9 +87,6 @@ footerBlocks:
   title: "Contactsssss"
   links:
    - {link: "mailto:viktor.schmuck@kcl.ac.uk", text: "viktor.schmuck@kcl.ac.uk"}
-
-include:
-  - _papers
 
 # Speakers List Block
 showSessions: true
