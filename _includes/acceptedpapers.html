@@ -6,8 +6,9 @@
             <div class="col-lg-8 col-md-10 col-xs-12">
                 {% for paper in site.papers %}
                     <article class="row post">
+                        <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
                         <!-- <a href="{{ site.baseurl | append: paper.url }}" title="{{ paper.title }}"><h4>{{ paper.title }}</h4></a> -->
-                        <div class="post-header">
+                        <!-- <div class="post-header">
                             <div class="published col-md-6 col-xs-6 pull-left">
                                 <span class="caption">Posted:</span>
                                 <span class="publish-date" itemprop="datePublished">{{ paper.date | date: "%b %-d, %Y" }}{% if paper.author %} • {{ paper.author }}{% endif %}{% if paper.meta %} • {{ paper.meta }}{% endif %}</span>
@@ -38,8 +39,8 @@
                                     </li>
                                 </ul>
                             </div>
-                        </div>
-                        <p class="post-body">{{ paper.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: paper.url }}">continue reading</a></p>
+                        </div> -->
+                        <!-- <p class="post-body">{{ paper.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: paper.url }}">continue reading</a></p> -->
                     </article>
                 {% endfor %} 
 

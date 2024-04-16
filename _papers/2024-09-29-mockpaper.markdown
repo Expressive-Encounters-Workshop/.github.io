@@ -1,11 +1,10 @@
 ---
-layout: post
-title:  "Mock title"
-date:   2024-09-29 09:00:00
-isStaticPost: false
+title: My Paper Title
+date: 2024-04-16
 author: John Doe
 ---
-Some title
+
+This is the content of my paper.
 
 #### Abstract
 Some abstract
