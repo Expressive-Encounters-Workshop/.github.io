@@ -29,60 +29,60 @@
   thumbnailUrl: Hirschberg-400.jpg
   rockstar: true
   
-- 
-  id: 6
-  name: "Varoon"
-  surname: "Mathur"
-  company: "AI Now Institute"
-  #title: "Head of Android/Java Unit"
-  bio: "<a href='https://ainowinstitute.org/people/varoon-mathur.html'>Varoon Mathur</a> is a researcher and data scientists, conducting interdisciplinary research on the social implications of machine learning and related technologies on public domains. He currently serves as a Technology Fellow at the AI Now Institute in New York. <br /> Previously, Varoon served as one of Microsoft's Data Science for Social Good Fellows, and earned his software engineering degree from UBC with a focus in machine learning. He is also a global health activist, and is a Co-ordinating Committee Fellow with Universities Allied for Essential Medicines, a student-driven NGO focused on access to medicines issues for vulnerable and marginalized population. He has advised on global health policy and research at the World Health Organization, and is a former TEDx Speaker."
-  thumbnailUrl: varoon.jpeg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "http://twitter.com/VaroonMathur"}
+# - 
+#   id: 6
+#   name: "Varoon"
+#   surname: "Mathur"
+#   company: "AI Now Institute"
+#   #title: "Head of Android/Java Unit"
+#   bio: "<a href='https://ainowinstitute.org/people/varoon-mathur.html'>Varoon Mathur</a> is a researcher and data scientists, conducting interdisciplinary research on the social implications of machine learning and related technologies on public domains. He currently serves as a Technology Fellow at the AI Now Institute in New York. <br /> Previously, Varoon served as one of Microsoft's Data Science for Social Good Fellows, and earned his software engineering degree from UBC with a focus in machine learning. He is also a global health activist, and is a Co-ordinating Committee Fellow with Universities Allied for Essential Medicines, a student-driven NGO focused on access to medicines issues for vulnerable and marginalized population. He has advised on global health policy and research at the World Health Organization, and is a former TEDx Speaker."
+#   thumbnailUrl: varoon.jpeg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "http://twitter.com/VaroonMathur"}
 
-- 
-  id: 7
-  name: "Alfredo"
-  surname: "Canziani"
-  company: "New York University"
-  #title: "Head of Android/Java Unit"
-  bio: "Alfredo Canziani is a Post-Doctoral Deep Learning Research Scientist and Lecturer at NYU Courant Institute of Mathematical Sciences, under the supervision of professors KyungHyun Cho and Yann LeCun. His research mainly focusses on Machine Learning for Autonomous Driving. He has been exploring deep policy networks actions uncertainty estimation and failure detection, and long term planning based on latent forward models, which nicely deal with the stochasticity and multimodality of the surrounding environment. Alfredo obtained both his Bachelor (2009) and Master (2011) degrees in Electrical Engineering cum laude at Trieste University, his MSc (2012) at Cranfield University, and his PhD (2017) at Purdue University. In his spare time, Alfredo is a professional musician, dancer, and cook, and keeps expanding his free online video course on Deep Learning and PyTorch."
-  thumbnailUrl: alfredo.jpeg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "http://twitter.com/alfcnz"}
+# - 
+#   id: 7
+#   name: "Alfredo"
+#   surname: "Canziani"
+#   company: "New York University"
+#   #title: "Head of Android/Java Unit"
+#   bio: "Alfredo Canziani is a Post-Doctoral Deep Learning Research Scientist and Lecturer at NYU Courant Institute of Mathematical Sciences, under the supervision of professors KyungHyun Cho and Yann LeCun. His research mainly focusses on Machine Learning for Autonomous Driving. He has been exploring deep policy networks actions uncertainty estimation and failure detection, and long term planning based on latent forward models, which nicely deal with the stochasticity and multimodality of the surrounding environment. Alfredo obtained both his Bachelor (2009) and Master (2011) degrees in Electrical Engineering cum laude at Trieste University, his MSc (2012) at Cranfield University, and his PhD (2017) at Purdue University. In his spare time, Alfredo is a professional musician, dancer, and cook, and keeps expanding his free online video course on Deep Learning and PyTorch."
+#   thumbnailUrl: alfredo.jpeg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "http://twitter.com/alfcnz"}
 
-- 
-  id: 0
-  name: "Brian"
-  surname: "McFee"
-  company: "New York University"
-  #title: "Software engineer/country manager"
-  bio: "<a href='https://bmcfee.github.io/'>Brian McFee</a> is Assistant Professor of Music Tech-nology and Data Science New York University. He received the B.S. degree (2003) in Computer Science from the University of California, Santa Cruz, and M.S. (2008) and Ph.D. (2012) degrees in Computer Science and Engineering from the University of California, San Diego. His work lies at the intersection of machine learning and audio analysis. He is an active open source software developer, and the principal maintainer of the librosa package for audio analysis."
-  thumbnailUrl: bmcfee13.png
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "http://twitter.com/functiontelechy"}
-- 
-  id: 1
-  name: "Arthur"
-  surname: "Spirling"
-  company: "New York University"
-  #title: "Software engineer/country manager"
-  bio: "<a href='http://www.nyu.edu/projects/spirling/'>Arthur Spirling</a> is Professor of Politics and Data Science at New York University. He received a bachelor's and master's degree from the London School of Economics, and a master's degree and PhD from the University of Rochester. Spirling's research centers on quantitative methods for social science, especially those that use text as data and more recently, deep learning and embedding representations. His work on these subjects has appeared in outlets such as the American Political Science Review, the American Journal of Political Science, the Journal of the American Statistical Association and conference proceedings in computer science. His work have been supported by the National Science Foundation. Substantively, he is interested in the political development of institutions, especially for the United Kingdom."
-  thumbnailUrl: arthur_blue_2.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "http://twitter.com/arthur_spirling"}
+# - 
+#   id: 0
+#   name: "Brian"
+#   surname: "McFee"
+#   company: "New York University"
+#   #title: "Software engineer/country manager"
+#   bio: "<a href='https://bmcfee.github.io/'>Brian McFee</a> is Assistant Professor of Music Tech-nology and Data Science New York University. He received the B.S. degree (2003) in Computer Science from the University of California, Santa Cruz, and M.S. (2008) and Ph.D. (2012) degrees in Computer Science and Engineering from the University of California, San Diego. His work lies at the intersection of machine learning and audio analysis. He is an active open source software developer, and the principal maintainer of the librosa package for audio analysis."
+#   thumbnailUrl: bmcfee13.png
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "http://twitter.com/functiontelechy"}
+# - 
+#   id: 1
+#   name: "Arthur"
+#   surname: "Spirling"
+#   company: "New York University"
+#   #title: "Software engineer/country manager"
+#   bio: "<a href='http://www.nyu.edu/projects/spirling/'>Arthur Spirling</a> is Professor of Politics and Data Science at New York University. He received a bachelor's and master's degree from the London School of Economics, and a master's degree and PhD from the University of Rochester. Spirling's research centers on quantitative methods for social science, especially those that use text as data and more recently, deep learning and embedding representations. His work on these subjects has appeared in outlets such as the American Political Science Review, the American Journal of Political Science, the Journal of the American Statistical Association and conference proceedings in computer science. His work have been supported by the National Science Foundation. Substantively, he is interested in the political development of institutions, especially for the United Kingdom."
+#   thumbnailUrl: arthur_blue_2.jpg
+#   rockstar: true
+#   social: 
+#     - {name: "twitter", link: "http://twitter.com/arthur_spirling"}
 
-- 
-  id: 2
-  name: "Joel"
-  surname: "Tetreault"
-  company: "Dataminr"
-  #title: "Software engineer/country manager"
-  bio: "<a href='http://www.cs.rochester.edu/~tetreaul/academic.html'>Joel Tetreault</a> is Director of Research at Dataminr, a company that provides updates on breaking events across the world in near real-time.  His background is in AI, specifically Natural Language Processing and Machine Learning, and using techniques from those fields to solve real-world problems such as automatic essay scoring, grammatical error correction, hate speech detection, ranking user comments and dialogue systems, among others.  Prior to joining Dataminr, he led research groups at Grammarly, Nuance and Educational Testing Service, and was a Senior Research Scientist at Yahoo Labs.  Joel recently finished a six-year stint as NAACL Treasurer and was a long-time organizer of the Building Educational Application workshop series.   He is a program chair for ACL 2020."
-  thumbnailUrl: joeltetreault1.jpg
-  rockstar: true
+# - 
+#   id: 2
+#   name: "Joel"
+#   surname: "Tetreault"
+#   company: "Dataminr"
+#   #title: "Software engineer/country manager"
+#   bio: "<a href='http://www.cs.rochester.edu/~tetreaul/academic.html'>Joel Tetreault</a> is Director of Research at Dataminr, a company that provides updates on breaking events across the world in near real-time.  His background is in AI, specifically Natural Language Processing and Machine Learning, and using techniques from those fields to solve real-world problems such as automatic essay scoring, grammatical error correction, hate speech detection, ranking user comments and dialogue systems, among others.  Prior to joining Dataminr, he led research groups at Grammarly, Nuance and Educational Testing Service, and was a Senior Research Scientist at Yahoo Labs.  Joel recently finished a six-year stint as NAACL Treasurer and was a long-time organizer of the Building Educational Application workshop series.   He is a program chair for ACL 2020."
+#   thumbnailUrl: joeltetreault1.jpg
+#   rockstar: true
   
