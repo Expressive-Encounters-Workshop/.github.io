@@ -98,3 +98,4 @@ showSessions: true
 collections:
   papers:
     output: true
+    permalink: /:collection/:title

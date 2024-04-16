@@ -1,6 +1,7 @@
 ---
-title:  "Paper"
+title:  "Paper1"
 authors: "Jane Doe"
+layout: post
 ---
 Random abstract
 
