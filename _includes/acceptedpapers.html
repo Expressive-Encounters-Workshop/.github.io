@@ -5,9 +5,9 @@
             <h3>{{ site.acceptedpapersTitle }}</h3>
             <div class="col-lg-8 col-md-10 col-xs-12">
                 <ul>
-                    {% assign papers = site.pages | where_exp: "item" , "item.path contains 'papers'"%}
+                    {% assign papers = site.pages | where_exp: "item" , "item.path contains 'papers-published'"%}
                     {% for paper in papers %}
-                      <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
+                      <li><a href="{{ site.baseurl | append: paper.url }}">{{ paper.title }}</a></li>
                     {% endfor %}
                   </ul>
                 <!-- {% for paper in site.papers %}
