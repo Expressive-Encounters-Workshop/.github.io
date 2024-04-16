@@ -87,6 +87,8 @@ footerBlocks:
   links:
    - {link: "mailto:viktor.schmuck@kcl.ac.uk", text: "viktor.schmuck@kcl.ac.uk"}
 
+include:
+  - _papers
 
 # Speakers List Block
 showSessions: true
