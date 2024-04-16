@@ -42,16 +42,16 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "NYC AI Workshop"
-eventDate: "October 26-28, 2019"
-typeoutTextValues: 'NYC AI Workshop'
+heroTitle: "Expressive Encounters Workshop"
+eventDate: "October 29, 2024"
+typeoutTextValues: 'Expressive Encounters Workshop'
 
 # About Block
-aboutTitle: "About NYC AI Workshop"
+aboutTitle: "Expressive Encounters Workshop"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+#  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+#  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 #statisticBlockImage: "statistic.jpg"
@@ -82,7 +82,7 @@ footerBlocks:
  -
   title: "Linksssssss"
   links:
-   - {link: "https://wp.nyu.edu/ml2/", text: "NYU Machine Learning for Language (ML²) Group"}
+   - {link: "https://sairlab.github.io/", text: "Social AI & Robotics (SAIR) Laboratory"}
 
  -
   title: "Contactsssss"
