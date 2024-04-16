@@ -1,12 +1,12 @@
 <!-- Begin Blog-->
-<pre>{{ site.data.papers | jsonify }}</pre>
 <section id="blog" class="blog">
     <div class="content-wrapper text-left">
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
             <h3>{{ site.acceptedpapersTitle }}</h3>
             <div class="col-lg-8 col-md-10 col-xs-12">
                 <ul>
-                    {% for paper in site.data.papers %}
+                    {% assign papers = site.pages | where_exp: "item" , "item.path contains 'papers'"%}
+                    {% for paper in papers %}
                       <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
                     {% endfor %}
                   </ul>
