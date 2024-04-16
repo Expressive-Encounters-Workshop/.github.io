@@ -6,7 +6,7 @@
             <div class="col-lg-8 col-md-10 col-xs-12">
                 {% for paper in site.papers %}
                     <article class="row post">
-                        <li><a href="{{ paper.url }}">{{ paper.title }}</a></li>
+                        <p>{{ paper.title }}</p>
                         <!-- <a href="{{ site.baseurl | append: paper.url }}" title="{{ paper.title }}"><h4>{{ paper.title }}</h4></a> -->
                         <!-- <div class="post-header">
                             <div class="published col-md-6 col-xs-6 pull-left">
