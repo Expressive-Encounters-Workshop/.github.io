@@ -16,7 +16,7 @@ description: ""
 baseurl: "/2024"
 url: "https://expressive-encounters-workshop.github.io"
 permalink: "/blog/:title"
-
+permalink: "/acceptedpapers/:title"
 
 # Organizer Info
 organizerName: ""
