@@ -34,6 +34,10 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/importantdates/", text: "Important Dates"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/acceptedpapers/", text: "Accepted Papers"}
+
 # - {permalink: "/team/", text: "Team"}
 
 # Hero Block
@@ -83,7 +87,7 @@ footerBlocks:
  -
   title: "Contactsssss"
   links:
-   - {link: "mailto:aiworkshop.nyu@gmail.com", text: "aiworkshop.nyu@gmail.com"}
+   - {link: "mailto:viktor.schmuck@kcl.ac.uk", text: "viktor.schmuck@kcl.ac.uk"}
 
 
 # Speakers List Block
