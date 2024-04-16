@@ -94,4 +94,4 @@ showSessions: true
 collections:
   papers:
     output: true
-    permalink: "/paperspublished/:title"
+    permalink: "/papers/:title"
