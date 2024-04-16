@@ -1,4 +1,5 @@
 ---
+layout: post
 title: My Paper Title
 date: 2024-04-16
 author: John Doe
