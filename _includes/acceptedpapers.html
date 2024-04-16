@@ -14,9 +14,15 @@
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
             <h3>{{ site.acceptedpapersTitle }}</h3>
             <div class="col-lg-8 col-md-10 col-xs-12">
-                {% for paper in site.collections.papers.docs %}
-                    <article class="row post">
-                        <p>{{ paper.title }}</p>
+                {% for paper in site.papers %}
+                    <h2>
+                    <a href="{{ paper.url }}">
+                      {{ paper.title }} - {{ paper.author }}
+                    </a>
+                  </h2>
+                  <p>{{ paper.content | markdownify }}</p>
+                    <!-- <article class="row post">
+                        <p>{{ paper.title }}</p> -->
                         <!-- <a href="{{ site.baseurl | append: paper.url }}" title="{{ paper.title }}"><h4>{{ paper.title }}</h4></a> -->
                         <!-- <div class="post-header">
                             <div class="published col-md-6 col-xs-6 pull-left">
@@ -51,7 +57,7 @@
                             </div>
                         </div> -->
                         <!-- <p class="post-body">{{ paper.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: paper.url }}">continue reading</a></p> -->
-                    </article>
+                    <!-- </article> -->
                 {% endfor %} 
 
                 {% if paginator.total_pages > 1 %}

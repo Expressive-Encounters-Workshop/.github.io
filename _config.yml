@@ -98,3 +98,5 @@ showSessions: true
 collections:
   staff_members:
     output: true
+  papers:
+    output: true
