@@ -7,9 +7,6 @@ safe: false
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME', '/readme_orig/']
-include:
- - papers
- - _papers
 
 # Site Settings
 title: "Expressive Encounters Workshop"
