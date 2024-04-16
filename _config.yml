@@ -8,7 +8,7 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 include:
- - _papers
+ - _papers/
 
 # Site Settings
 title: "Expressive Encounters Workshop"
@@ -42,7 +42,7 @@ navigationLinks:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Expressive Encounters Workshop"
-eventDate: "October 29, 2024"
+eventDate: "September 29, 2024"
 typeoutTextValues: 'Expressive Encounters Workshop'
 
 # About Block
