@@ -96,7 +96,5 @@ showSessions: true
 #     output: true
 
 collections:
-  staff_members:
-    output: true
   papers:
     output: true
