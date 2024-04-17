@@ -37,7 +37,7 @@ navigationLinks:
 #  - {permalink: "/acceptedpapers/", text: "Accepted Papers"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "Expressive Encounters Workshop"
 eventDate: "September 29, 2024"
 typeoutTextValues: 'Expressive Encounters Workshop'
