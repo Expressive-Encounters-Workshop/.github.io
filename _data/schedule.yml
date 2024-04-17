@@ -8,58 +8,78 @@
   timeslots:
     - {
         startTime: "9:00",
-        endTime: "9:00",
-        sessionIds: [306]
+        endTime: "9:15",
+        sessionIds: [0]
     }
     - {
-    	startTime: "9:00",
-    	endTime: "9:10",
-    	sessionIds: [308]
+    	startTime: "9:15",
+    	endTime: "10:15",
+    	sessionIds: [1]
     }
     - {
-        startTime: "9:10",
-        endTime: "10:30",
-        sessionIds: [201]
+        startTime: "10:15",
+        endTime: "10:45",
+        sessionIds: [2]
     }
     - {
-    	startTime: "10:30",
-    	endTime: "10:45",
-    	sessionIds: [305]
+    	startTime: "10:45",
+    	endTime: "11:00",
+    	sessionIds: [3, 990]
     }
     - {
-        startTime: "10:45",
-        endTime: "12:00",
-        sessionIds: [002, 001]
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [4]
     }
     - {
-        startTime: "12:00",
-        endTime: "1:30",
-        sessionIds: [503]
+        startTime: "11:00",
+        endTime: "17:00",
+        sessionIds: [991]
     }
     - {
-        startTime: "1:30",
-        endTime: "3:30",
-        sessionIds: [202]
+        startTime: "11:30",
+        endTime: "12:30",
+        sessionIds: [5]
     }
     - {
-        startTime: "3:30",
-        endTime: "3:45",
-        sessionIds: [305]
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [6]
     }
     - {
-        startTime: "3:45",
-        endTime: "4:30",
-        sessionIds: [003]
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [7]
     }
     - {
-        startTime: "4:30",
-        endTime: "5:15",
-        sessionIds: [004]
+        startTime: "14:00",
+        endTime: "14:30",
+        sessionIds: [8]
     }
     - {
-        startTime: "5:15",
-        endTime: "6:00",
-        sessionIds: [005]
+        startTime: "14:30",
+        endTime: "15:30",
+        sessionIds: [9]
+    }
+    - {
+        startTime: "15:30",
+        endTime: "16:00",
+        sessionIds: [10]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "16:15",
+        sessionIds: [11]
+    }
+    - {
+        startTime: "16:15",
+        endTime: "16:45",
+        sessionIds: [12]
+    }
+    - {
+        startTime: "16:45",
+        endTime: "17:15",
+        sessionIds: [13]
     }
 # - 
 #   date: "2019-10-27"
