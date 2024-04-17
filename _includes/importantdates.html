@@ -23,7 +23,8 @@
                 <div class="timeslot-label">
                     <!-- <time class="start-time" itemprop="startDate" datetime="{{ impdat.dateReadable }}T{{ impdat.startTime }}"> -->
                     <time class="start-time" itemprop="startDate" datetime="{{ impdat.date }}">
-                        {{ impdat.date }}<span>AOE</span>
+                        {% assign startDate = impdat.date | split: "/" %}
+                        {{ startDate[0] }}<span>{{ startDate[1] }}</span>
                     </time>
                 </div>
                 <div class="timeslot-elements flexbox-wrapper">
@@ -32,6 +33,7 @@
                         {% assign slotIndex = forloop.index0 %}
                         {% if slot != 404 %}
                             {% for event in site.data.importantdates %}
+                                {% if eventId == event.id %}
                                 <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ event.place }}">
                                     <div class="color-line"></div>
                                     <div class="slot-content">
@@ -41,6 +43,7 @@
                                         {% endif %}
                                     </div>
                                 </div>
+                                {% endif %}
                             {% endfor %}
                         {% else %}
                         <div class="slot col-md-{{ slotColWidth }} hidden-xs blank-col flexbox-item-height"></div>
