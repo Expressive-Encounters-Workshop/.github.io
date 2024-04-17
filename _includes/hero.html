@@ -5,8 +5,8 @@
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1>{{ heroText[0] }}</h1>
-            <p>{{ site.eventDate }}</p>
+            <h1 style="font-weight: lighter;">{{ heroText[0] }}</h1>
+            <p style="font-weight: normal;">{{ site.eventDate }}</p>
         </div>
     </div>
     <a href="#about" class="explore">
