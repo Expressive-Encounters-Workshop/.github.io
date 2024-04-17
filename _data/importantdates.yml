@@ -1,44 +1,36 @@
 -
   id: 0
-  title: "Important Date event 1"
+  title: "Workshop introduction post #1"
   description: ""
 -
   id: 1
-  title: "Important Date event 2"
-  description: "Abstract?"
+  title: "Workshop introduction post #2"
+  description: "Might be a webinar - TBD"
 -
   id: 2
-  title: "Important Date event 3"
+  title: "Organisers release training and validation datasets & Teams begin development"
   description: ""
 -
   id: 3
-  title: "Important Date event 4"
+  title: "Teams submit solutions & Teams begin work on workshop papers & Organisers begin evaluation"
   description: ""
 -
   id: 4
-  title: "Important Date event 5"
+  title: "Organisers release evaluation results & Teams incorporate results in workshop papers"
   description: ""
 -
   id: 5
-  title: "Important Date event 6"
+  title: "Teams submit workshop papers & Organisers start review process"
   description: "Abstract?"
 -
   id: 6
-  title: "Important Date event 7"
+  title: "Organisers inform teams of paper acceptance/rejection & Teams begin work on camera-ready papers"
   description: ""
 -
   id: 7
-  title: "Important Date event 8"
+  title: "Teams submit camera-ready papers & Organisers verify that everything is in order"
   description: ""
 -
   id: 8
-  title: "Important Date event 9"
-  description: ""
--
-  id: 9
-  title: "Important Date event 10"
-  description: "Abstract?"
--
-  id: 10
-  title: "Important Date event 11"
+  title: "Accepted papers are submitted to ECCV"
   description: ""

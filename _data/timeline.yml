@@ -5,58 +5,38 @@
     
   timeslots:
     - {
-        date: "01/06/2024",  
+        date: "03/May",  
         impdatIds: [0]
     }
     - {
-    	date: "01/06/2024",
+    	date: "31/May",
     	impdatIds: [1]
     }
     - {
-        date: "01/06/2024",  
+        date: "03/June",  
         impdatIds: [2]
     }
     - {
-    	date: "01/06/2024",
+    	date: "30/June",
     	impdatIds: [3]
     }
     - {
-        date: "01/06/2024",  
+        date: "28/July",  
         impdatIds: [4]
     }
     - {
-        date: "01/06/2024",  
+        date: "04/August",  
         impdatIds: [5]
     }
     - {
-        date: "01/06/2024",  
+        date: "16/August",  
         impdatIds: [6]
     }
     - {
-        date: "01/06/2024",  
+        date: "23/August",  
         impdatIds: [7]
     }
     - {
-        date: "01/06/2024",  
+        date: "30/August",  
         impdatIds: [8]
-    }
-    - {
-        date: "01/06/2024",  
-        impdatIds: [9]
-    }
-    - {
-        date: "01/06/2024",  
-        impdatIds: [10]
-    }
-    - {
-        date: "01/06/2024",  
-        impdatIds: [11]
-    }
-    - {
-        date: "01/06/2024",  
-        impdatIds: [12]
-    }
-    - {
-        date: "01/06/2024",  
-        impdatIds: [13]
     }
