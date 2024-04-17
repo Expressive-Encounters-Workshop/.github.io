@@ -29,148 +29,50 @@
     - {
         startTime: "11:00",
         endTime: "11:30",
-        sessionIds: [4]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "17:00",
-        sessionIds: [991]
+        sessionIds: [4, 991]
     }
     - {
         startTime: "11:30",
         endTime: "12:30",
-        sessionIds: [5]
+        sessionIds: [5, 991]
     }
     - {
         startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [6]
+        sessionIds: [6, 991]
     }
     - {
         startTime: "13:00",
         endTime: "14:00",
-        sessionIds: [7]
+        sessionIds: [7, 991]
     }
     - {
         startTime: "14:00",
         endTime: "14:30",
-        sessionIds: [8]
+        sessionIds: [8, 991]
     }
     - {
         startTime: "14:30",
         endTime: "15:30",
-        sessionIds: [9]
+        sessionIds: [9, 991]
     }
     - {
         startTime: "15:30",
         endTime: "16:00",
-        sessionIds: [10]
+        sessionIds: [10, 991]
     }
     - {
         startTime: "16:00",
         endTime: "16:15",
-        sessionIds: [11]
+        sessionIds: [11, 991]
     }
     - {
         startTime: "16:15",
         endTime: "16:45",
-        sessionIds: [12]
+        sessionIds: [12, 991]
     }
     - {
         startTime: "16:45",
         endTime: "17:15",
         sessionIds: [13]
     }
-# - 
-#   date: "2019-10-27"
-#   dateReadable: "October 27"
-#   tracks: 
-#     - {title: "<br>", color: "#90be4e"}
-#     - {title: "", color: "#03a9f4"}
-    
-#   timeslots:
-#     - {
-#         startTime: "8:30",
-#         endTime: "9:00",
-#         sessionIds: [306]
-#     }
-#     - {
-#         startTime: "9:00",
-#         endTime: "10:30",
-#         sessionIds: [203]
-#     }
-#     - {
-#         startTime: "10:30",
-#         endTime: "10:45",
-#         sessionIds: [305]
-#     }
-#     - {
-#         startTime: "10:45",
-#         endTime: "12:00",
-#         sessionIds: [006, 007]
-#     }
-#     - {
-#         startTime: "12:00",
-#         endTime: "1:30",
-#         sessionIds: [503]
-#     }
-#     - {
-#         startTime: "1:30",
-#         endTime: "3:30",
-#         sessionIds: [202]
-#     }
-#     - {
-#         startTime: "3:30",
-#         endTime: "3:45",
-#         sessionIds: [305]
-#     }
-#     - {
-#         startTime: "3:45",
-#         endTime: "4:30",
-#         sessionIds: [008]
-#     }
-#     - {
-#         startTime: "4:30",
-#         endTime: "5:50",
-#         sessionIds: [009]
-#     }
-#     - {
-#         startTime: "5:50",
-#         endTime: "6:00",
-#         sessionIds: [304]
-#     }
-#     - {
-#         startTime: "6:00",
-#         endTime: "7:30",
-#         sessionIds: [303]
-#     }
-
-# - 
-#   date: "2019-10-28"
-#   dateReadable: "October 28 (Optional: Facebook Tour)"
-#   tracks: 
-#     - {title: "<br>", color: "#90be4e"}
-#     - {title: "", color: "#03a9f4"}
-    
-#   timeslots:
-#     - {
-#         startTime: "12:00",
-#         endTime: "1:00",
-#         sessionIds: [503]
-#     }
-#     - {
-#         startTime: "1:00",
-#         endTime: "2:30",
-#         sessionIds: [108]
-#     }
-#     - {
-#         startTime: "2:30",
-#         endTime: "3:45",
-#         sessionIds: [109]
-#     }
-#     - {
-#         startTime: "3:45",
-#         endTime: "4:00",
-#         sessionIds: [304]
-#     }
-    
