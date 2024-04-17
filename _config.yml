@@ -34,7 +34,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/importantdates/", text: "Important Dates"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/acceptedpapers/", text: "Accepted Papers"}
+#  - {permalink: "/acceptedpapers/", text: "Accepted Papers"}
 
 # Hero Block
 heroImage: "hero.jpg"
