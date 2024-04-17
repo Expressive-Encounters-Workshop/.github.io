@@ -1,5 +1,5 @@
 - 
-  id: 1
+  id: 0
   name: "Taras"
   surname: "Kucherenko (tentative)"
   company: "Electronic Arts (EA)"
@@ -11,7 +11,7 @@
     - {name: "twitter", link: "https://twitter.com/SvitozarTaras"}
   
 - 
-  id: 2
+  id: 1
   name: "Lourdes"
   surname: "Agapito (tentative)"
   company: "Department of Computer Science at University College London (UCL)"
@@ -22,7 +22,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/lourdesagapito"}
 - 
-  id: 3
+  id: 2
   name: "Zerrin"
   surname: "Yumak (tentative)"
   company: "Human-Centered Computing Group, Department of Information and Computing Sciences at Utrecht University"
