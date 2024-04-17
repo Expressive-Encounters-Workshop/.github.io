@@ -1,0 +1,64 @@
+-
+  id: 0
+  title: "Welcome from the organisers"
+  description: ""
+-
+  id: 1
+  title: "Invited speaker 1 - Title TBD"
+  description: "Abstract?"
+-
+  id: 2
+  title: "Best paper of track 1 presentation + Q&A"
+  description: ""
+-
+  id: 3
+  title: "Break and Poster hanging for track 1"
+  description: ""
+-
+  id: 4
+  title: "Poster session for track 1"
+  description: ""
+-
+  id: 5
+  title: "Invited speaker 2 - Title TBD"
+  description: "Abstract?"
+-
+  id: 6
+  title: "Best paper of track 2 presentation + Q&A"
+  description: ""
+-
+  id: 7
+  title: "Lunch break and Poster hanging for track 2"
+  description: ""
+-
+  id: 8
+  title: "Poster session for track 2"
+  description: ""
+-
+  id: 9
+  title: "Invited speaker 3 - Title TBD"
+  description: "Abstract?"
+-
+  id: 10
+  title: "Best paper of track 3 presentation + Q&A"
+  description: ""
+-
+  id: 11
+  title: "Break and Poster hanging for track 3"
+  description: ""
+-
+  id: 12
+  title: "Poster session for track 3"
+  description: ""
+-
+  id: 13
+  title: "Discussion and Closing Remarks"
+  description: ""
+-
+  id: 990
+  title: "Demo setup"
+  description: ""
+-
+  id: 991
+  title: "Demo display"
+  description: ""

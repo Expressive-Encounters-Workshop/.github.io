@@ -1,0 +1,63 @@
+- 
+  dateReadable: "September 29"
+  tracks: 
+    - {title: "<br>", color: "#90be4e"}
+    - {title: "", color: "#03a9f4"}
+    
+  timeslots:
+    - {
+        date: "9:00",  
+        sessionIds: [0]
+    }
+    - {
+    	date: "9:15",
+    	sessionIds: [1]
+    }
+    - {
+        date: "10:15",  
+        sessionIds: [2]
+    }
+    - {
+    	date: "10:45",
+    	sessionIds: [3, 990]
+    }
+    - {
+        date: "11:00",  
+        sessionIds: [4, 991]
+    }
+    - {
+        date: "11:30",  
+        sessionIds: [5]
+    }
+    - {
+        date: "12:30",  
+        sessionIds: [6]
+    }
+    - {
+        date: "13:00",  
+        sessionIds: [7, 991]
+    }
+    - {
+        date: "14:00",  
+        sessionIds: [8, 991]
+    }
+    - {
+        date: "14:30",  
+        sessionIds: [9]
+    }
+    - {
+        date: "15:30",  
+        sessionIds: [10]
+    }
+    - {
+        date: "16:00",  
+        sessionIds: [11, 991]
+    }
+    - {
+        date: "16:15",  
+        sessionIds: [12, 991]
+    }
+    - {
+        date: "16:45",  
+        sessionIds: [13]
+    }
