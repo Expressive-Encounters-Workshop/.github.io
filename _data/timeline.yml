@@ -6,58 +6,58 @@
     
   timeslots:
     - {
-        date: "9:00",  
+        date: "01/06/2024",  
         sessionIds: [0]
     }
     - {
-    	date: "9:15",
+    	date: "01/06/2024",
     	sessionIds: [1]
     }
     - {
-        date: "10:15",  
+        date: "01/06/2024",  
         sessionIds: [2]
     }
     - {
-    	date: "10:45",
+    	date: "01/06/2024",
     	sessionIds: [3, 990]
     }
     - {
-        date: "11:00",  
+        date: "01/06/2024",  
         sessionIds: [4, 991]
     }
     - {
-        date: "11:30",  
+        date: "01/06/2024",  
         sessionIds: [5]
     }
     - {
-        date: "12:30",  
+        date: "01/06/2024",  
         sessionIds: [6]
     }
     - {
-        date: "13:00",  
+        date: "01/06/2024",  
         sessionIds: [7, 991]
     }
     - {
-        date: "14:00",  
+        date: "01/06/2024",  
         sessionIds: [8, 991]
     }
     - {
-        date: "14:30",  
+        date: "01/06/2024",  
         sessionIds: [9]
     }
     - {
-        date: "15:30",  
+        date: "01/06/2024",  
         sessionIds: [10]
     }
     - {
-        date: "16:00",  
+        date: "01/06/2024",  
         sessionIds: [11, 991]
     }
     - {
-        date: "16:15",  
+        date: "01/06/2024",  
         sessionIds: [12, 991]
     }
     - {
-        date: "16:45",  
+        date: "01/06/2024",  
         sessionIds: [13]
     }
