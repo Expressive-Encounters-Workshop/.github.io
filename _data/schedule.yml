@@ -9,70 +9,70 @@
     - {
         startTime: "9:00",
         endTime: "9:15",
-        impdatIds: [0]
+        sessionIds: [0]
     }
     - {
     	startTime: "9:15",
     	endTime: "10:15",
-    	impdatIds: [1]
+    	sessionIds: [1]
     }
     - {
         startTime: "10:15",
         endTime: "10:45",
-        impdatIds: [2]
+        sessionIds: [2]
     }
     - {
     	startTime: "10:45",
     	endTime: "11:00",
-    	impdatIds: [3, 990]
+    	sessionIds: [3, 990]
     }
     - {
         startTime: "11:00",
         endTime: "11:30",
-        impdatIds: [4, 991]
+        sessionIds: [4, 991]
     }
     - {
         startTime: "11:30",
         endTime: "12:30",
-        impdatIds: [5]
+        sessionIds: [5]
     }
     - {
         startTime: "12:30",
         endTime: "13:00",
-        impdatIds: [6]
+        sessionIds: [6]
     }
     - {
         startTime: "13:00",
         endTime: "14:00",
-        impdatIds: [7, 991]
+        sessionIds: [7, 991]
     }
     - {
         startTime: "14:00",
         endTime: "14:30",
-        impdatIds: [8, 991]
+        sessionIds: [8, 991]
     }
     - {
         startTime: "14:30",
         endTime: "15:30",
-        impdatIds: [9]
+        sessionIds: [9]
     }
     - {
         startTime: "15:30",
         endTime: "16:00",
-        impdatIds: [10]
+        sessionIds: [10]
     }
     - {
         startTime: "16:00",
         endTime: "16:15",
-        impdatIds: [11, 991]
+        sessionIds: [11, 991]
     }
     - {
         startTime: "16:15",
         endTime: "16:45",
-        impdatIds: [12, 991]
+        sessionIds: [12, 991]
     }
     - {
         startTime: "16:45",
         endTime: "17:15",
-        impdatIds: [13]
+        sessionIds: [13]
     }
