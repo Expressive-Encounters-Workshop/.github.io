@@ -60,7 +60,8 @@ aboutBlock:
 # Latest News Block
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "rockstar-speaker.png"
+# rockstarSpeakersImage: "speaker.png"
 rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Speakers"
 rockstarSpeakersButtonText: "View Speaker Details"
