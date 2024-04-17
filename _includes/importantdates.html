@@ -7,7 +7,7 @@
             <div class="timeslot track-header stick-header">
                 <!-- <div class="track-header-label">Day {{ forloop.index }}</div> -->
                 <div class="timeslot-elements flexbox-wrapper">
-                    {% for track in day.tracks %}
+                    {% for track in eventlist.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
                     <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
                         <h5 class="track-header-title"></h5>
@@ -23,7 +23,7 @@
                 <div class="timeslot-label">
                     <!-- <time class="start-time" itemprop="startDate" datetime="{{ impdat.dateReadable }}T{{ impdat.startTime }}"> -->
                     <time class="start-time" itemprop="startDate" datetime="{{ impdat.date }}">
-                        <impdat class="date"></impdat><span>AOE</span>
+                        {{ impdat.date }}<span>AOE</span>
                     </time>
                 </div>
                 <div class="timeslot-elements flexbox-wrapper">
