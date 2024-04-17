@@ -15,7 +15,7 @@
   speakers: [0]
 -
   id: 2
-  title: "Best paper of track 1 presentation + Q\&A"
+  title: "Best paper of track 1 presentation + Q&A"
   place: ""
   service: true
   subtype: presentation
@@ -42,7 +42,7 @@
   speakers: [1]
 -
   id: 6
-  title: "Best paper of track 2 presentation + Q\&A"
+  title: "Best paper of track 2 presentation + Q&A"
   place: ""
   description: ""
   subtype: presentation
@@ -69,7 +69,7 @@
   speakers: [2]
 -
   id: 10
-  title: "Best paper of track 3 presentation + Q\&A"
+  title: "Best paper of track 3 presentation + Q&A"
   place: ""
   description: ""
   subtype: presentation
