@@ -3,27 +3,24 @@
   name: "Viktor"
   surname: "Schmuck"
   title: "King's College London | UK"
-  thumbnailUrl: viktor.jpg
+  thumbnailUrl: viktor.png
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  # ribbon: 
+  #   - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "site", link: "beautifulrobot.io"}
 - 
   id: 1
   name: "Ariel"
   surname: "Gjaci"
   title: "King's College London | UK"
-  thumbnailUrl: ariel.jpg
+  thumbnailUrl: ariel.jpeg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+  # ribbon: 
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social: 
+  #   - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+  #   - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
   name: "Chaitanya"
@@ -31,33 +28,33 @@
   title: "Meta AI | US"
   thumbnailUrl: chaitanya.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+  # ribbon: 
+  #   - {abbr: "GDG", title: "Google Developer Group"}
+  # social: 
+  #   - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+  #   - {name: "twitter", link: "https://twitter.com/p1f"}
+  #   - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 3
   name: "Gustav"
   surname: "Eje Henter"
   title: "KTH Royal Institute of Technology | SE"
-  thumbnailUrl: gustav.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+  thumbnailUrl: gustav.jpeg
+  team: true
+  # social: 
+  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 4
   name: "Rajmund"
   surname: "Nagy"
   title: "KTH Royal Institute of Technology | SE"
-  thumbnailUrl: rajmund.jpg
+  thumbnailUrl: rajmund.png
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  # social: 
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
 - 
   id: 5
   name: "Youngwoo"
@@ -65,16 +62,16 @@
   title: "Electronics and Telecommunications Research Institute | KR"
   thumbnailUrl: youngwoo.jpg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  # social: 
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
 - 
   id: 6
   name: "Oya"
   surname: "Celiktutan"
   title: "King's College London | UK"
-  thumbnailUrl: oya.jpg
+  thumbnailUrl: oya.jpeg
   subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  # social: 
+  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+  #   - {name: "site", link: "http://olostan.name/"}
