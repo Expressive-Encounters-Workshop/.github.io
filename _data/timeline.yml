@@ -5,38 +5,38 @@
     
   timeslots:
     - {
-        date: "03/May",  
+        date: "03/05",  
         impdatIds: [0]
     }
     - {
-    	date: "31/May",
+    	date: "31/05",
     	impdatIds: [1]
     }
     - {
-        date: "03/June",  
+        date: "03/06",  
         impdatIds: [2]
     }
     - {
-    	date: "30/June",
+    	date: "30/06",
     	impdatIds: [3]
     }
     - {
-        date: "28/July",  
+        date: "28/07",  
         impdatIds: [4]
     }
     - {
-        date: "04/August",  
+        date: "04/08",  
         impdatIds: [5]
     }
     - {
-        date: "16/August",  
+        date: "16/08",  
         impdatIds: [6]
     }
     - {
-        date: "23/August",  
+        date: "23/08",  
         impdatIds: [7]
     }
     - {
-        date: "30/August",  
+        date: "30/08",  
         impdatIds: [8]
     }
