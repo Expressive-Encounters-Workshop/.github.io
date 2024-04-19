@@ -1,10 +1,10 @@
 - 
   id: 0
-  name: "TBD"
-  surname: ""
-  company: ""
+  name: "To Be"
+  surname: "Decided"
+  company: "TBD"
   title: "Invited speaker"
-  bio: ""
+  bio: "Empty profile"
   thumbnailUrl: blank.png 
   rockstar: true
   social:
