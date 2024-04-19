@@ -36,7 +36,7 @@
   place: ""
   description: "Abstract?"
   subtype: presentation
-  speakers: [1]
+  speakers: [0]
 -
   id: 6
   title: "Best paper of track 2 presentation + Q&A"
@@ -61,7 +61,7 @@
   place: ""
   description: "Abstract?"
   subtype: presentation
-  speakers: [2]
+  speakers: [0]
 -
   id: 10
   title: "Best paper of track 3 presentation + Q&A"
