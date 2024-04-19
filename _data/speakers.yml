@@ -7,8 +7,8 @@
   bio: ""
   thumbnailUrl: blank.png 
   rockstar: true
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/SvitozarTaras"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/TBD"}
 # - 
 #   id: 0
 #   name: "Taras"
