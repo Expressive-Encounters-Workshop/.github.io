@@ -1,36 +1,32 @@
 -
   id: 0
-  title: "Workshop introduction post #1"
-  description: ""
--
-  id: 1
   title: "Workshop introduction post #2"
   description: "Might be a webinar - TBD"
 -
+  id: 1
+  title: "Submission deadline"
+  description: "Teams submit workshop papers & Organisers start review process"
+-
   id: 2
-  title: "Organisers release training and validation datasets & Teams begin development"
-  description: ""
+  title: "Decisions"
+  description: "Organisers inform teams of paper acceptance/rejection & Teams begin work on camera-ready papers"
 -
   id: 3
-  title: "Teams submit solutions & Teams begin work on workshop papers & Organisers begin evaluation"
-  description: ""
--
-  id: 4
-  title: "Organisers release evaluation results & Teams incorporate results in workshop papers"
-  description: ""
--
-  id: 5
-  title: "Teams submit workshop papers & Organisers start review process"
-  description: ""
--
-  id: 6
-  title: "Organisers inform teams of paper acceptance/rejection & Teams begin work on camera-ready papers"
-  description: ""
--
-  id: 7
-  title: "Teams submit camera-ready papers & Organisers verify that everything is in order"
-  description: ""
--
-  id: 8
-  title: "Accepted papers are submitted to ECCV"
-  description: ""
+  title: "Camera ready deadline"
+  description: "Teams submit camera-ready papers & Organisers verify that everything is in order > Accepted papers are submitted to ECCV"
+# -
+#   id: 5
+#   title: "Teams submit workshop papers & Organisers start review process"
+#   description: ""
+# -
+#   id: 6
+#   title: "Organisers inform teams of paper acceptance/rejection & Teams begin work on camera-ready papers"
+#   description: ""
+# -
+#   id: 7
+#   title: "Teams submit camera-ready papers & Organisers verify that everything is in order"
+#   description: ""
+# -
+#   id: 8
+#   title: "Accepted papers are submitted to ECCV"
+#   description: ""

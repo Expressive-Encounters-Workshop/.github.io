@@ -5,22 +5,17 @@
   title: "King's College London | UK"
   thumbnailUrl: viktor.jpg
   team: true
-  # ribbon: 
-  #   - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "site", link: "https://beautifulrobot.io/"}
 - 
   id: 1
   name: "Ariel"
   surname: "Gjaci"
-  title: "King's College London | UK"
+  title: "King's College London | UK & Università degli Studi di Genova | IT"
   thumbnailUrl: ariel.jpeg
   team: true
-  # ribbon: 
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social: 
-  #   - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-  #   - {name: "github", link: "https://github.com/ozasadnyy"}
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ariel-gjaci-43326019b/"}
 - 
   id: 2
   name: "Chaitanya"
@@ -28,12 +23,8 @@
   title: "Meta AI | US"
   thumbnailUrl: chaitanya.jpg
   team: true
-  # ribbon: 
-  #   - {abbr: "GDG", title: "Google Developer Group"}
-  # social: 
-  #   - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-  #   - {name: "twitter", link: "https://twitter.com/p1f"}
-  #   - {name: "site", link: "http://andrusiv.com/"}
+  social: 
+    - {name: "site", link: "https://chahuja.com/"}
 - 
   id: 3
   name: "Gustav"
@@ -41,10 +32,6 @@
   title: "KTH Royal Institute of Technology | SE"
   thumbnailUrl: gustav.jpeg
   team: true
-  # social: 
-  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-  #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-  #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
   id: 4
   name: "Rajmund"
@@ -52,19 +39,17 @@
   title: "KTH Royal Institute of Technology | SE"
   thumbnailUrl: rajmund.png
   subTeam: true
-  # social: 
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  social: 
+    - {name: "site", link: "https://nagyrajmund.github.io/"}
 - 
   id: 5
   name: "Youngwoo"
   surname: "Yoon"
-  title: "ETRI | KR"
-  thumbnailUrl: youngwoo.jpg
+  title: "Electronics and Telecommunications Research Institute| KR"
+  thumbnailUrl: youngwoo.jpeg
   subTeam: true
-  # social: 
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  social: 
+    - {name: "site", link: "https://sites.google.com/view/youngwoo-yoon"}
 - 
   id: 6
   name: "Oya"
@@ -72,6 +57,5 @@
   title: "King's College London | UK"
   thumbnailUrl: oya.jpeg
   subTeam: true
-  # social: 
-  #   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-  #   - {name: "site", link: "http://olostan.name/"}
+  social: 
+    - {name: "site", link: "https://nms.kcl.ac.uk/oya.celiktutan/"}

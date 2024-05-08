@@ -30,8 +30,8 @@ organizerLink: ""
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+#  - {permalink: "/schedule/", text: "Schedule"}
+#  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/importantdates/", text: "Important Dates"}
  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/acceptedpapers/", text: "Accepted Papers"}

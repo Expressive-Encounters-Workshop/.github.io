@@ -4,39 +4,39 @@
     - {title: "", color: "#03a9f4"}
     
   timeslots:
+    # - {
+    #     date: "03/05",  
+    #     impdatIds: [0]
+    # }
     - {
-        date: "03/05",  
-        impdatIds: [0]
-    }
-    - {
-    	date: "31/05",
+    	date: "19/07",
     	impdatIds: [1]
     }
     - {
-        date: "03/06",  
+        date: "16/08",  
         impdatIds: [2]
     }
     - {
-    	date: "30/06",
+    	date: "23/08",
     	impdatIds: [3]
     }
-    - {
-        date: "28/07",  
-        impdatIds: [4]
-    }
-    - {
-        date: "04/08",  
-        impdatIds: [5]
-    }
-    - {
-        date: "16/08",  
-        impdatIds: [6]
-    }
-    - {
-        date: "23/08",  
-        impdatIds: [7]
-    }
-    - {
-        date: "30/08",  
-        impdatIds: [8]
-    }
+    # - {
+    #     date: "28/07",  
+    #     impdatIds: [4]
+    # }
+    # - {
+    #     date: "04/08",  
+    #     impdatIds: [5]
+    # }
+    # - {
+    #     date: "16/08",  
+    #     impdatIds: [6]
+    # }
+    # - {
+    #     date: "23/08",  
+    #     impdatIds: [7]
+    # }
+    # - {
+    #     date: "30/08",  
+    #     impdatIds: [8]
+    # }
