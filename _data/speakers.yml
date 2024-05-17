@@ -12,7 +12,7 @@
 - 
   id: 0
   name: "Taras"
-  surname: "Kucherenko (tentative)"
+  surname: "Kucherenko"
   company: "Electronic Arts (EA)"
   title: "Research Scientist"
   bio: "<a href='https://svito-zar.github.io/'>Taras Kucherenko</a> is a Research Scientist at Electronic Arts (EA). He finished his PhD at KTH Royal Institute of Technology in Stockholm, researching machine learning models for non-verbal behavior generation, such as hand gestures and facial expressions. He is a founding organiser of GENEA events and his work on gesture generation has won the best paper award at ICMI 2020."
