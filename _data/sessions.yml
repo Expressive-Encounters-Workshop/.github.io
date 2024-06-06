@@ -7,94 +7,46 @@
   description: ""
 -
   id: 1
-  title: "Invited speaker 1 - Title TBD"
+  title: "Invited speaker 1 - TBD"
   place: ""
-  description: "Abstract?"
+  description: ""
   subtype: presentation
   # speakers: 
 -
   id: 2
-  title: "Best paper of track 1 presentation + Q&A"
+  title: "Invited speaker 2 - TBD"
   place: ""
   subtype: presentation
   description: ""
+  # speakers: 
 -
   id: 3
-  title: "Break and Poster hanging for track 1"
+  title: "Coffee Break"
   place: ""
   service: true
   description: ""
 -
   id: 4
-  title: "Poster session for track 1"
+  title: "Oral presentations - Best papers track 1 & track 2"
   place: ""
   service: true
   description: ""
 -
   id: 5
-  title: "Invited speaker 2 - Title TBD"
+  title: "Poster Session"
   place: ""
-  description: "Abstract?"
-  subtype: presentation
+  description: ""
   # speakers: 
 -
   id: 6
-  title: "Best paper of track 2 presentation + Q&A"
+  title: "Invited speaker 3 - TBD"
   place: ""
   description: ""
   subtype: presentation
+  # speakers: 
 -
   id: 7
-  title: "Lunch break and Poster hanging for track 2"
-  place: ""
-  service: true
-  description: ""
--
-  id: 8
-  title: "Poster session for track 2"
-  place: ""
-  description: ""
-  service: true
--
-  id: 9
-  title: "Invited speaker 3 - Title TBD"
-  place: ""
-  description: "Abstract?"
-  subtype: presentation
-  # speakers: [0]
--
-  id: 10
-  title: "Best paper of track 3 presentation + Q&A"
-  place: ""
-  description: ""
-  subtype: presentation
--
-  id: 11
-  title: "Break and Poster hanging for track 3"
-  place: ""
-  description: ""
-  service: true
--
-  id: 12
-  title: "Poster session for track 3"
-  place: ""
-  description: ""
-  service: true
--
-  id: 13
-  title: "Discussion and Closing Remarks"
-  place: ""
-  description: ""
-  subtype: presentation
--
-  id: 990
-  title: "Demo setup"
-  place: ""
-  service: true
-  description: ""
--
-  id: 991
-  title: "Demo display"
+  title: "Open discussion and closing remarks"
   place: ""
   service: true
   description: ""
