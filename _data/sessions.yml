@@ -11,14 +11,14 @@
   place: ""
   description: ""
   subtype: presentation
-  speakers: 0
+  speakers: [0]
 -
   id: 2
   title: "Invited speaker 2 - Diversity-aware social robots"
   place: ""
   subtype: presentation
   description: ""
-  speakers: 1
+  speakers: [1]
 -
   id: 3
   title: "Coffee Break"
