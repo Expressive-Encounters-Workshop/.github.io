@@ -7,18 +7,18 @@
   description: ""
 -
   id: 1
-  title: "Invited speaker 1 - TBD"
+  title: "Invited speaker 1 - On the Evaluation of the Gesture Generation Models"
   place: ""
   description: ""
   subtype: presentation
-  # speakers: 
+  speakers: 0
 -
   id: 2
-  title: "Invited speaker 2 - TBD"
+  title: "Invited speaker 2 - Diversity-aware social robots"
   place: ""
   subtype: presentation
   description: ""
-  # speakers: 
+  speakers: 1
 -
   id: 3
   title: "Coffee Break"

@@ -20,18 +20,18 @@
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/SvitozarTaras"}
-  
-# - 
-#   id: 1
-#   name: "Lourdes"
-#   surname: "Agapito (tentative)"
-#   company: "Department of Computer Science at University College London (UCL)"
-#   title: "Professor of 3D Vision"
-#   bio: '<a href="http://www0.cs.ucl.ac.uk/staff/l.agapito/">Lourdes Agapito</a> is a Professor of 3D Vision at the Department of Computer Science at University College London. She has chaired prestigious conferences like CVPR and ICCV. In 2017, she co-founded Synthesia, a generative AI startup known for its groundbreaking work, including the technology behind the impactful Malaria no More video campaign advocating for malaria eradication.'
-#   thumbnailUrl: lourdes.jpg
-#   rockstar: true
-#   social: 
-#     - {name: "twitter", link: "https://twitter.com/lourdesagapito"}
+
+- 
+  id: 1
+  name: "Antonio"
+  surname: "Sgorbissa"
+  company: "Robots and Intelligent Systems for Citizens and the Environment (RICE) Lab at University of Genova"
+  title: "Full Professor"
+  bio: '<a href="https://rubrica.unige.it/personale/UkNHWlJp">Antonio Sgorbissa</a> is a Full Professor at the RICE Lab (Robots and Intelligent Systems for Citizens and the Environment) at the University of Genova. He has coordinated national and European projects, including the H2020 CARESSES (Culture-Aware Robots and Environmental Sensor Systems for Elderly Support). His current research interests include diversity-aware social robots to assist the frail population, and autonomous quadruped and aerial robots for improving people safety in disaster management. He won several awards for his research, including the 2023 PROSE Award from the Association of American Publishers for coauthoring the book Transcultural Artificial Intelligence and Robotics in Health and Social Care.'
+  thumbnailUrl: antonio.png
+  rockstar: true
+  # social: 
+  #   - {name: "twitter", link: "https://twitter.com/lourdesagapito"}
 # - 
 #   id: 2
 #   name: "Zerrin"
