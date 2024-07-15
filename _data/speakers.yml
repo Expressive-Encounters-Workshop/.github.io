@@ -32,14 +32,14 @@
   rockstar: true
   # social: 
   #   - {name: "twitter", link: "https://twitter.com/lourdesagapito"}
-# - 
-#   id: 2
-#   name: "Zerrin"
-#   surname: "Yumak (tentative)"
-#   company: "Human-Centered Computing Group, Department of Information and Computing Sciences at Utrecht University"
-#   title: "Assistant Professor"
-#   bio: "<a href='http://www.cs.columbia.edu/~julia/'>Zerrin Yumak</a> is an assistant professor at the Human-Centered Computing Group within the Department of Information and Computing Sciences at Utrecht University. She is a scientific collaborator at EPFL, Switzerland, and a research fellow at the Nanyang Technological University, Singapore. Her research focuses on believable virtual humans and social robots, virtual reality, and robotics."
-#   thumbnailUrl: zerrin.jpeg
-#   rockstar: true
-#   social: 
-#     - {name: "twitter", link: "https://twitter.com/zerrinyumak"}
+- 
+  id: 2
+  name: "Gül"
+  surname: "Varol"
+  company: "IMAGINE team at Ecole des Ponts ParisTech"
+  title: "Permanent Researcher"
+  bio: "<a href='https://imagine.enpc.fr/~varolg/'>Gül Varol</a> is a permanent researcher in the IMAGINE team at Ecole des Ponts ParisTech. Previously, she was a postdoctoral researcher at the University of Oxford (VGG). She obtained her PhD from the WILLOW team of Inria Paris and Ecole Normale Superieure (ENS). Her thesis received PhD awards from ELLIS and AFRIF. She regularly serves as an Area Chair at major computer vision conferences, and is serving as a Program Chair at ECCV'24. Her research interests cover vision and language applications, including video representation learning, human motion synthesis, and sign languages."
+  thumbnailUrl: gul.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://x.com/gulvarol"}

@@ -14,11 +14,11 @@
   speakers: [0]
 -
   id: 2
-  title: "Invited speaker 2 - Diversity-aware social robots"
+  title: "Invited speaker 2 - Text-driven 3D human motion synthesis"
   place: ""
   subtype: presentation
   description: ""
-  speakers: [1]
+  speakers: [2]
 -
   id: 3
   title: "Coffee Break"
@@ -39,11 +39,11 @@
   # speakers: 
 -
   id: 6
-  title: "Invited speaker 3 - TBD"
+  title: "Invited speaker 3 - Diversity-aware social robots"
   place: ""
   description: ""
   subtype: presentation
-  # speakers: 
+  speakers: [1]
 -
   id: 7
   title: "Open discussion and closing remarks"
