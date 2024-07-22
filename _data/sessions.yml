@@ -14,11 +14,10 @@
   speakers: [0]
 -
   id: 2
-  title: "Invited speaker 2 - Text-driven 3D human motion synthesis"
+  title: "Oral presentations - Best papers track 1 & track 2"
   place: ""
-  subtype: presentation
+  service: true
   description: ""
-  speakers: [2]
 -
   id: 3
   title: "Coffee Break"
@@ -27,10 +26,11 @@
   description: ""
 -
   id: 4
-  title: "Oral presentations - Best papers track 1 & track 2"
+  title: "Invited speaker 2 - Text-driven 3D human motion synthesis"
   place: ""
-  service: true
+  subtype: presentation
   description: ""
+  speakers: [2]
 -
   id: 5
   title: "Poster Session"
