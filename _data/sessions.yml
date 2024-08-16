@@ -14,7 +14,13 @@
   speakers: [0]
 -
   id: 2
-  title: "Oral presentations - Best papers track 1 & track 2"
+  title: "Paper presentation"
+  place: ""
+  service: true
+  description: ""
+-
+  id: 99
+  title: "Poster hanging and poster pitches"
   place: ""
   service: true
   description: ""
