@@ -30,8 +30,9 @@
   bio: '<a href="https://cbeyan.github.io/">Cigdem Beyan</a> holds the position of Associate Professor at the Department of Computer Science at the University of Verona, Italy. Her research interests are mainly in the areas of computer vision, machine learning, social signal processing, affective computing, and human/animal behaviour analysis. Cigdem has co-authored more than 60 peer-reviewed scientific articles and she regularly publishes in top-tier journals and conferences in computer vision, multimedia and social/affective computing. She is a reviewer of several multimedia, affective computing, computer vision and machine learning journals (e.g., IEEE Trans. PAMI, IEEE Trans. Multimedia; IEEE Trans. Affective Computing, Pattern Recognition), and IEEE/ACM/IAPR/BMVA conferences (e.g., CVPR, ECCV, ICML, WACV, ACM MM, BMVC, ACM ICMI, ICLR). She is a member of IEEE, ACM and ELLIS. Additionally, she has been actively involved in organizing conferences in the fields of Computer Vision, Social Robotics, Human-Computer Interaction, and Biometrics. She is an Associate Fellow of the Higher Education Academy in recognition of attainment against the UK Professional Standards Framework for teaching and learning support in higher education since 2014.'
   thumbnailUrl: cigdem.jpg
   rockstar: true
-  # social: 
-  #   - {name: "twitter", link: "https://twitter.com/lourdesagapito"}
+  social: 
+    - {name: "twitter", link: "https://x.com/beyancigdem"}
+    
 - 
   id: 2
   name: "Gül"
