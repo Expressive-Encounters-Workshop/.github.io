@@ -33,6 +33,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
 #  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/cfp/", text: "Call For Papers"}
+ - {permalink: "/cfposters/", text: "Call For Posters"}
  - {permalink: "/importantdates/", text: "Important Dates"}
  - {permalink: "/blog/", text: "Blog"}
 #  - {permalink: "/acceptedpapers/", text: "Accepted Papers"}
